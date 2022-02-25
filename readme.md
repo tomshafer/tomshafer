@@ -8,7 +8,7 @@ using supercomputers and Fortran.
 
 - 🌎 I have a [website][], including a résumé and some writing.
 - 👨‍🎓 My [Google Scholar][] profile provides a publication list.
-- ✉️ You may [e-mail me][] if you'd like to get in touch.
+- ✉️ [E-mail me][] if you'd like to get in touch.
 
 [Website]: https://tshafer.com
 [Google Scholar]: https://scholar.google.com/citations?user=aRIjsEQAAAAJ&hl=en
